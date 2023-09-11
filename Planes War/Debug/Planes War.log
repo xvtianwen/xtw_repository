@@ -1,0 +1,11 @@
+﻿  Planes War.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\Users\徐天文\Desktop\Planes War\Planes War.cpp(11,48): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [25]”转换为“LPCWSTR”
+D:\Users\徐天文\Desktop\Planes War\Planes War.cpp(11,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+D:\Users\徐天文\Desktop\Planes War\Planes War.cpp(13,39): error C2664: “MCIERROR mciSendStringW(LPCWSTR,LPWSTR,UINT,HWND)”: 无法将参数 1 从“const char [16]”转换为“LPCWSTR”
+D:\Users\徐天文\Desktop\Planes War\Planes War.cpp(13,16): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\Windows Kits\10\Include\10.0.19041.0\um\mciapi.h(88,1): message : 参见“mciSendStringW”的声明
+D:\Users\徐天文\Desktop\Planes War\Planes War.cpp(14,48): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\easyx.h(256,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+D:\Users\徐天文\Desktop\Planes War\Planes War.cpp(14,48): message : 尝试匹配参数列表“(IMAGE *, const char [23])”时

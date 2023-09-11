@@ -1,0 +1,74 @@
+﻿  Planes War.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+E:\备份\C大作业\Planes War\Planes War.cpp(149,22): warning C4244: “参数”: 从“ULONGLONG”转换到“unsigned int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(226,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(226,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(227,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(227,17): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(235,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(235,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(236,35): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(236,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(242,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(242,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(243,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(243,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(248,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(248,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(249,43): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(249,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(255,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(255,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(256,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(256,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(261,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(261,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(262,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(262,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(275,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(275,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(276,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(276,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(281,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(281,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(282,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(282,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(287,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(287,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(288,34): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(288,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(296,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(296,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(297,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(297,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(313,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(313,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(314,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(314,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(319,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(319,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(320,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(320,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(325,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(325,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(326,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(326,29): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(334,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(334,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(335,47): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(335,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(448,27): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(458,28): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(772,40): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(843,15): warning C4305: “参数”: 从“double”到“float”截断
+E:\备份\C大作业\Planes War\Planes War.cpp(853,21): warning C4305: “参数”: 从“double”到“float”截断
+E:\备份\C大作业\Planes War\Planes War.cpp(906,16): warning C4305: “参数”: 从“double”到“float”截断
+E:\备份\C大作业\Planes War\Planes War.cpp(978,2): warning C4551: 缺少参数列表的函数调用
+E:\备份\C大作业\Planes War\Planes War.cpp(983,2): warning C4551: 缺少参数列表的函数调用
+E:\备份\C大作业\Planes War\Planes War.cpp(990,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(990,20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(991,32): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(991,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\备份\C大作业\Planes War\Planes War.cpp(1000,2): warning C4551: 缺少参数列表的函数调用
+E:\备份\C大作业\Planes War\Planes War.cpp(1100,2): warning C4551: 缺少参数列表的函数调用
+  Planes War.vcxproj -> E:\备份\C大作业\Planes War\x64\Debug\Planes War.exe
