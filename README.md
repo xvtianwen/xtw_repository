@@ -1,2 +1,3 @@
 # xtw_repository
-#自己大一时编写的程序小游戏，用作了大作业，不足之处有很多，请指正。
+# hello world
+# 这是我的第一个repository on github
